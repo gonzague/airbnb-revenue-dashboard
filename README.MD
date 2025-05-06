@@ -28,7 +28,7 @@
    ```
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit pandas
    ```
 
 ## Usage
