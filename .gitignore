@@ -1,0 +1,14 @@
+.venv/
+*.venv
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.csv
+*.json
+*.jsonl
+*.jsonl.gz
+*.jsonl.gz.part
+*.jsonl.gz.part.1
+*.jsonl.gz.part.2
