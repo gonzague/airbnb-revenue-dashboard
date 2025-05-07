@@ -1,5 +1,7 @@
 # Airbnb Revenue Dashboard
 
+![Dashboard](https://github.com/gonzague/airbnb-revenue-dashboard/blob/main/dash.png?raw=true)
+
 **Airbnb Revenue Dashboard** is an interactive Streamlit application that helps Airbnb hosts visualize and analyze their pending reservation earnings. The dashboard provides:
 - An at-a-glance view of total upcoming gross revenue and monthly revenue trends.
 - Automatic detection of potential duplicate bookings.
