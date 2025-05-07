@@ -34,7 +34,7 @@
 ## Usage
 
 1. **Export your pending revenues CSV**  
-   From your Airbnb host dashboard, download the “Pending revenues” CSV (see Airbnb’s instructions: https://www.airbnb.fr/help/article/3632).
+   From your Airbnb host dashboard, download the "Pending revenues" CSV (see Airbnb's instructions: https://www.airbnb.fr/help/article/3632).
 
 2. **Run the Streamlit app**:
    ```bash
@@ -57,3 +57,13 @@ Contributions are welcome! Feel free to open issues or submit pull requests. Ple
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+# Other Projects & Platforms
+
+- **My Lumon Merchandising shop:** [LumonMerchandising.com/](https://lumonmerchandising.com/)
+- **My LogCentral syslog platform:** [LogCentral.io](https://logcentral.io/)
+
+## Platforms of Preference
+
+- **Hetzner for Hosting:** [Hetzner](https://go.gonzague.me/hetzner)
+- **Cursor for coding:** [Cursor](https://go.gonzague.me/cursor)
